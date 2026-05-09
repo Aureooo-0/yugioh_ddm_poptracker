@@ -1,0 +1,30 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Duelists Map",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "duelists_map"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Duelists Map",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "duelists_map"
+                    ]
+                }
+            }
+        ]
+    }
+}

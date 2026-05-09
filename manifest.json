@@ -1,0 +1,15 @@
+{
+    "name": "Yu-Gi-Oh! Dungeon Dice Monsters Archipelago",
+    "game_name": "Yu-Gi-Oh! Dungeon Dice Monsters",
+    "package_version": "0.0.1",
+    "package_uid": "yugioh_ddm_ap",
+    "platform": "gba",
+    "author": "Aureooo",
+    "min_poptracker_version": "0.31.0",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": ["ap"]
+        }
+    }
+}

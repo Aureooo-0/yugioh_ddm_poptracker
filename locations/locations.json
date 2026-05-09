@@ -1,0 +1,2574 @@
+[
+  {
+    "name": "Yami Yugi",
+    "access_rules": [
+      "{yami_yugi}"
+    ],
+    "sections": [
+      {
+        "name": "Yami Yugi defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 72,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Yugi Moto",
+    "access_rules": [
+      "{yugi_moto}"
+    ],
+    "sections": [
+      {
+        "name": "Yugi Moto defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Yugi Moto defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 72,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Joey Wheeler",
+    "access_rules": [
+      "{joey_wheeler}"
+    ],
+    "sections": [
+      {
+        "name": "Joey Wheeler defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Joey Wheeler defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 72,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Tristan Taylor",
+    "access_rules": [
+      "{tristan_taylor}"
+    ],
+    "sections": [
+      {
+        "name": "Tristan Taylor defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Tristan Taylor defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 72,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Tea Gardner",
+    "access_rules": [
+      "{tea_gardner}"
+    ],
+    "sections": [
+      {
+        "name": "Tea Gardner defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Tea Gardner defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 72,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Bakura",
+    "access_rules": [
+      "{bakura}"
+    ],
+    "sections": [
+      {
+        "name": "Bakura defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Bakura defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 152,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Mai Valentine",
+    "access_rules": [
+      "{mai_valentine}"
+    ],
+    "sections": [
+      {
+        "name": "Mai Valentine defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Mai Valentine defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 152,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Duke Devlin",
+    "access_rules": [
+      "{duke_devlin}"
+    ],
+    "sections": [
+      {
+        "name": "Duke Devlin defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Duke Devlin defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 152,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Seto Kaiba",
+    "access_rules": [
+      "{seto_kaiba}"
+    ],
+    "sections": [
+      {
+        "name": "Seto Kaiba defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Seto Kaiba defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 152,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Maximillion Pegasus",
+    "access_rules": [
+      "{maximillion_pegasus}"
+    ],
+    "sections": [
+      {
+        "name": "Maximillion Pegasus defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Maximillion Pegasus defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 152,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Mako Tsunami",
+    "access_rules": [
+      "{mako_tsunami}"
+    ],
+    "sections": [
+      {
+        "name": "Mako Tsunami defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Mako Tsunami defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 232,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Espa Roba",
+    "access_rules": [
+      "{espa_roba}"
+    ],
+    "sections": [
+      {
+        "name": "Espa Roba defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Espa Roba defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 232,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Weevil Underwood",
+    "access_rules": [
+      "{weevil_underwood}"
+    ],
+    "sections": [
+      {
+        "name": "Weevil Underwood defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Weevil Underwood defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 232,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Rex Raptor",
+    "access_rules": [
+      "{rex_raptor}"
+    ],
+    "sections": [
+      {
+        "name": "Rex Raptor defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Rex Raptor defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 232,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Bonz",
+    "access_rules": [
+      "{bonz}"
+    ],
+    "sections": [
+      {
+        "name": "Bonz defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Bonz defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 232,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Bandit Keith",
+    "access_rules": [
+      "{bandit_keith}"
+    ],
+    "sections": [
+      {
+        "name": "Bandit Keith defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Bandit Keith defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 312,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "The Puppeteer",
+    "access_rules": [
+      "{the_puppeteer}"
+    ],
+    "sections": [
+      {
+        "name": "The Puppeteer defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "The Puppeteer defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 312,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Panik",
+    "access_rules": [
+      "{panik}"
+    ],
+    "sections": [
+      {
+        "name": "Panik defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Panik defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 312,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Para",
+    "access_rules": [
+      "{para}"
+    ],
+    "sections": [
+      {
+        "name": "Para defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Para defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 312,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Dox",
+    "access_rules": [
+      "{dox}"
+    ],
+    "sections": [
+      {
+        "name": "Dox defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Dox defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 312,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Seeker",
+    "access_rules": [
+      "{seeker}"
+    ],
+    "sections": [
+      {
+        "name": "Seeker defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Seeker defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 392,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Arkana",
+    "access_rules": [
+      "{arkana}"
+    ],
+    "sections": [
+      {
+        "name": "Arkana defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Arkana defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 392,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Strings",
+    "access_rules": [
+      "{strings}"
+    ],
+    "sections": [
+      {
+        "name": "Strings defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Strings defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 392,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Lumis",
+    "access_rules": [
+      "{lumis}"
+    ],
+    "sections": [
+      {
+        "name": "Lumis defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Lumis defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 392,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Umbra",
+    "access_rules": [
+      "{umbra}"
+    ],
+    "sections": [
+      {
+        "name": "Umbra defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Umbra defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 392,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Shadi",
+    "access_rules": [
+      "{shadi}"
+    ],
+    "sections": [
+      {
+        "name": "Shadi defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Shadi defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 472,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Yami Bakura",
+    "access_rules": [
+      "{yami_bakura}"
+    ],
+    "sections": [
+      {
+        "name": "Yami Bakura defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Yami Bakura defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 472,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Ishizu Ishtar",
+    "access_rules": [
+      "{ishizu_ishtar}"
+    ],
+    "sections": [
+      {
+        "name": "Ishizu Ishtar defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Ishizu Ishtar defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 472,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Marik Ishtar",
+    "access_rules": [
+      "{marik_ishtar}"
+    ],
+    "sections": [
+      {
+        "name": "Marik Ishtar defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Marik Ishtar defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 472,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Odion",
+    "access_rules": [
+      "{odion}"
+    ],
+    "sections": [
+      {
+        "name": "Odion defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Odion defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 472,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Sindin the Clown",
+    "access_rules": [
+      "{sindin_the_clown}"
+    ],
+    "sections": [
+      {
+        "name": "Sindin the Clown defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Sindin the Clown defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 552,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Grandpa",
+    "access_rules": [
+      "{grandpa}"
+    ],
+    "sections": [
+      {
+        "name": "Grandpa defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Grandpa defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 552,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Mokuba Kaiba",
+    "access_rules": [
+      "{mokuba_kaiba}"
+    ],
+    "sections": [
+      {
+        "name": "Mokuba Kaiba defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Mokuba Kaiba defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 552,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Demitrius the Bully",
+    "access_rules": [
+      "{demitrius_the_bully}"
+    ],
+    "sections": [
+      {
+        "name": "Demitrius the Bully defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Demitrius the Bully defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 552,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "AD Archie",
+    "access_rules": [
+      "{ad_archie}"
+    ],
+    "sections": [
+      {
+        "name": "AD Archie defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "AD Archie defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 552,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Director Lucius",
+    "access_rules": [
+      "{director_lucius}"
+    ],
+    "sections": [
+      {
+        "name": "Director Lucius defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Director Lucius defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 632,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Lint Greendale",
+    "access_rules": [
+      "{lint_greendale}"
+    ],
+    "sections": [
+      {
+        "name": "Lint Greendale defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Lint Greendale defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 632,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Fender Shrill",
+    "access_rules": [
+      "{fender_shrill}"
+    ],
+    "sections": [
+      {
+        "name": "Fender Shrill defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Fender Shrill defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 632,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Jackpot",
+    "access_rules": [
+      "{jackpot}"
+    ],
+    "sections": [
+      {
+        "name": "Jackpot defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Jackpot defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 632,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Fortuno",
+    "access_rules": [
+      "{fortuno}"
+    ],
+    "sections": [
+      {
+        "name": "Fortuno defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Fortuno defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 632,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Kreiger",
+    "access_rules": [
+      "{kreiger}"
+    ],
+    "sections": [
+      {
+        "name": "Kreiger defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Kreiger defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 712,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Miss Madusa",
+    "access_rules": [
+      "{miss_madusa}"
+    ],
+    "sections": [
+      {
+        "name": "Miss Madusa defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Miss Madusa defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 712,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Melody",
+    "access_rules": [
+      "{melody}"
+    ],
+    "sections": [
+      {
+        "name": "Melody defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Melody defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 712,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Scorpion Shoes Owner",
+    "access_rules": [
+      "{scorpion_shoes_owner}"
+    ],
+    "sections": [
+      {
+        "name": "Scorpion Shoes Owner defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Scorpion Shoes Owner defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 712,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Venom A",
+    "access_rules": [
+      "{venom_a}"
+    ],
+    "sections": [
+      {
+        "name": "Venom A defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Venom A defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 712,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Venom B",
+    "access_rules": [
+      "{venom_b}"
+    ],
+    "sections": [
+      {
+        "name": "Venom B defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Venom B defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 792,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Venom C",
+    "access_rules": [
+      "{venom_c}"
+    ],
+    "sections": [
+      {
+        "name": "Venom C defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Venom C defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 792,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Diesel Kane",
+    "access_rules": [
+      "{diesel_kane}"
+    ],
+    "sections": [
+      {
+        "name": "Diesel Kane defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Diesel Kane defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 792,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Kane Minion A",
+    "access_rules": [
+      "{kane_minion_a}"
+    ],
+    "sections": [
+      {
+        "name": "Kane Minion A defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Kane Minion A defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 792,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Kane Minion B",
+    "access_rules": [
+      "{kane_minion_b}"
+    ],
+    "sections": [
+      {
+        "name": "Kane Minion B defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Kane Minion B defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 792,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Kane Minion C",
+    "access_rules": [
+      "{kane_minion_c}"
+    ],
+    "sections": [
+      {
+        "name": "Kane Minion C defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Kane Minion C defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 872,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Kane Minion D",
+    "access_rules": [
+      "{kane_minion_d}"
+    ],
+    "sections": [
+      {
+        "name": "Kane Minion D defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Kane Minion D defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 872,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Kane Minion E",
+    "access_rules": [
+      "{kane_minion_e}"
+    ],
+    "sections": [
+      {
+        "name": "Kane Minion E defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Kane Minion E defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 872,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Kane Minion F",
+    "access_rules": [
+      "{kane_minion_f}"
+    ],
+    "sections": [
+      {
+        "name": "Kane Minion F defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Kane Minion F defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 872,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Curator Adriel Wainwright",
+    "access_rules": [
+      "{curator_adriel_wainwright}"
+    ],
+    "sections": [
+      {
+        "name": "Curator Adriel Wainwright defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Curator Adriel Wainwright defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 872,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Professor Jeremy Harrison",
+    "access_rules": [
+      "{professor_jeremy_harrison}"
+    ],
+    "sections": [
+      {
+        "name": "Professor Jeremy Harrison defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Professor Jeremy Harrison defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 952,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Beluga",
+    "access_rules": [
+      "{beluga}"
+    ],
+    "sections": [
+      {
+        "name": "Beluga defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Beluga defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 952,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "The Greendale Zompire",
+    "access_rules": [
+      "{the_greendale_zompire}"
+    ],
+    "sections": [
+      {
+        "name": "The Greendale Zompire defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "The Greendale Zompire defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 952,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Thug A",
+    "access_rules": [
+      "{thug_a}"
+    ],
+    "sections": [
+      {
+        "name": "Thug A defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Thug A defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 952,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Thug B",
+    "access_rules": [
+      "{thug_b}"
+    ],
+    "sections": [
+      {
+        "name": "Thug B defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Thug B defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 952,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Thug C",
+    "access_rules": [
+      "{thug_c}"
+    ],
+    "sections": [
+      {
+        "name": "Thug C defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Thug C defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 1032,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Egger Baldwin",
+    "access_rules": [
+      "{egger_baldwin}"
+    ],
+    "sections": [
+      {
+        "name": "Egger Baldwin defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Egger Baldwin defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 1032,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Feng Long",
+    "access_rules": [
+      "{feng_long}"
+    ],
+    "sections": [
+      {
+        "name": "Feng Long defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Feng Long defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 1032,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Cedric",
+    "access_rules": [
+      "{cedric}"
+    ],
+    "sections": [
+      {
+        "name": "Cedric defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Cedric defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 1032,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Charlie Gale",
+    "access_rules": [
+      "{charlie_gale}"
+    ],
+    "sections": [
+      {
+        "name": "Charlie Gale defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Charlie Gale defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 1032,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Bickford Gage",
+    "access_rules": [
+      "{bickford_gage}"
+    ],
+    "sections": [
+      {
+        "name": "Bickford Gage defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Bickford Gage defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 1112,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Snipes Crosshair",
+    "access_rules": [
+      "{snipes_crosshair}"
+    ],
+    "sections": [
+      {
+        "name": "Snipes Crosshair defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Snipes Crosshair defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 1112,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Kaibas' Butler",
+    "access_rules": [
+      "{kaibas_butler}"
+    ],
+    "sections": [
+      {
+        "name": "Kaibas' Butler defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Kaibas' Butler defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 1112,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Chopman",
+    "access_rules": [
+      "{chopman}"
+    ],
+    "sections": [
+      {
+        "name": "Chopman defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Chopman defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 1112,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Yugi's Mother",
+    "access_rules": [
+      "{yugis_mother}"
+    ],
+    "sections": [
+      {
+        "name": "Yugi's Mother defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Yugi's Mother defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 1112,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Anton Periwig",
+    "access_rules": [
+      "{anton_periwig}"
+    ],
+    "sections": [
+      {
+        "name": "Anton Periwig defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Anton Periwig defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 1192,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Game Show Producer",
+    "access_rules": [
+      "{game_show_producer}"
+    ],
+    "sections": [
+      {
+        "name": "Game Show Producer defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Game Show Producer defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 1192,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Stringer",
+    "access_rules": [
+      "{stringer}"
+    ],
+    "sections": [
+      {
+        "name": "Stringer defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Stringer defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 1192,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Tick-Tock",
+    "access_rules": [
+      "{tick_tock}"
+    ],
+    "sections": [
+      {
+        "name": "Tick-Tock defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Tick-Tock defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 1192,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Damien Draco",
+    "access_rules": [
+      "{damien_draco}"
+    ],
+    "sections": [
+      {
+        "name": "Damien Draco defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Damien Draco defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 1192,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Nibbles",
+    "access_rules": [
+      "{nibbles}"
+    ],
+    "sections": [
+      {
+        "name": "Nibbles defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Nibbles defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 1272,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Mr. Titus",
+    "access_rules": [
+      "{mr_titus}"
+    ],
+    "sections": [
+      {
+        "name": "Mr. Titus defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Mr. Titus defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 1272,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Serenity Wheeler",
+    "access_rules": [
+      "{serenity_wheeler}"
+    ],
+    "sections": [
+      {
+        "name": "Serenity Wheeler defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Serenity Wheeler defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 1272,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Croquet",
+    "access_rules": [
+      "{croquet}"
+    ],
+    "sections": [
+      {
+        "name": "Croquet defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Croquet defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 1272,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Kemo",
+    "access_rules": [
+      "{kemo}"
+    ],
+    "sections": [
+      {
+        "name": "Kemo defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Kemo defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 1272,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Johnny Steps",
+    "access_rules": [
+      "{johnny_steps}"
+    ],
+    "sections": [
+      {
+        "name": "Johnny Steps defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Johnny Steps defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 1352,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "The Merchant",
+    "access_rules": [
+      "{the_merchant}"
+    ],
+    "sections": [
+      {
+        "name": "The Merchant defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "The Merchant defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 1352,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Paradox",
+    "access_rules": [
+      "{paradox}"
+    ],
+    "sections": [
+      {
+        "name": "Paradox defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Paradox defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 1352,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Norman",
+    "access_rules": [
+      "{norman}"
+    ],
+    "sections": [
+      {
+        "name": "Norman defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Norman defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 1352,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Lloyd",
+    "access_rules": [
+      "{lloyd}"
+    ],
+    "sections": [
+      {
+        "name": "Lloyd defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Lloyd defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 1352,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Roger",
+    "access_rules": [
+      "{roger}"
+    ],
+    "sections": [
+      {
+        "name": "Roger defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Roger defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 1432,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Andrea",
+    "access_rules": [
+      "{andrea}"
+    ],
+    "sections": [
+      {
+        "name": "Andrea defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Andrea defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 1432,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Diana",
+    "access_rules": [
+      "{diana}"
+    ],
+    "sections": [
+      {
+        "name": "Diana defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Diana defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 232,
+        "y": 1432,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Paul",
+    "access_rules": [
+      "{paul}"
+    ],
+    "sections": [
+      {
+        "name": "Paul defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Paul defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 312,
+        "y": 1432,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Ryan",
+    "access_rules": [
+      "{ryan}"
+    ],
+    "sections": [
+      {
+        "name": "Ryan defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Ryan defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 392,
+        "y": 1432,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Jill",
+    "access_rules": [
+      "{jill}"
+    ],
+    "sections": [
+      {
+        "name": "Jill defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Jill defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 72,
+        "y": 1512,
+        "size": 12
+      }
+    ]
+  },
+  {
+    "name": "Doris",
+    "access_rules": [
+      "{doris}"
+    ],
+    "sections": [
+      {
+        "name": "Doris defeated 1",
+        "chest_count": 1
+      },
+      {
+        "name": "Doris defeated 2",
+        "chest_count": 1
+      },
+      {
+        "name": "Defeated",
+        "chest_count": 1
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "duelists_map",
+        "x": 152,
+        "y": 1512,
+        "size": 12
+      }
+    ]
+  }
+]

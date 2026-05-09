@@ -1,0 +1,1826 @@
+[
+    {
+        "name": "seto_kaiba",
+        "type": "toggle",
+        "img": "images/items/seto_kaiba.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seto_kaiba"
+    },
+    {
+        "name": "dark-eyesillusionist",
+        "type": "toggle",
+        "img": "images/items/dark-eyesillusionist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dark-eyesillusionist"
+    },
+    {
+        "name": "larmofforbidden",
+        "type": "toggle",
+        "img": "images/items/larmofforbidden.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "larmofforbidden"
+    },
+    {
+        "name": "jiraigumo",
+        "type": "toggle",
+        "img": "images/items/jiraigumo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jiraigumo"
+    },
+    {
+        "name": "battlewarrior",
+        "type": "toggle",
+        "img": "images/items/battlewarrior.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "battlewarrior"
+    },
+    {
+        "name": "bickford_gage",
+        "type": "toggle",
+        "img": "images/items/bickford_gage.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bickford_gage"
+    },
+    {
+        "name": "kazejin",
+        "type": "toggle",
+        "img": "images/items/kazejin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kazejin"
+    },
+    {
+        "name": "croquet",
+        "type": "toggle",
+        "img": "images/items/croquet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "croquet"
+    },
+    {
+        "name": "fiendsmirror",
+        "type": "toggle",
+        "img": "images/items/fiendsmirror.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fiendsmirror"
+    },
+    {
+        "name": "andrea",
+        "type": "toggle",
+        "img": "images/items/andrea.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "andrea"
+    },
+    {
+        "name": "relinquished",
+        "type": "toggle",
+        "img": "images/items/relinquished.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "relinquished"
+    },
+    {
+        "name": "stringer",
+        "type": "toggle",
+        "img": "images/items/stringer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stringer"
+    },
+    {
+        "name": "slotmachine",
+        "type": "toggle",
+        "img": "images/items/slotmachine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "slotmachine"
+    },
+    {
+        "name": "beaverwarrior",
+        "type": "toggle",
+        "img": "images/items/beaverwarrior.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beaverwarrior"
+    },
+    {
+        "name": "gaiathedragonchampion",
+        "type": "toggle",
+        "img": "images/items/gaiathedragonchampion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gaiathedragonchampion"
+    },
+    {
+        "name": "lint_greendale",
+        "type": "toggle",
+        "img": "images/items/lint_greendale.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lint_greendale"
+    },
+    {
+        "name": "tristan_taylor",
+        "type": "toggle",
+        "img": "images/items/tristan_taylor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tristan_taylor"
+    },
+    {
+        "name": "gaiathefierceknight",
+        "type": "toggle",
+        "img": "images/items/gaiathefierceknight.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gaiathefierceknight"
+    },
+    {
+        "name": "man-eaterbug",
+        "type": "toggle",
+        "img": "images/items/man-eaterbug.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "man-eaterbug"
+    },
+    {
+        "name": "Dark Division",
+        "type": "toggle",
+        "img": "images/items/tournaments/dark_division.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "darkdivision"
+    },
+    {
+        "name": "metalguardian",
+        "type": "toggle",
+        "img": "images/items/metalguardian.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "metalguardian"
+    },
+    {
+        "name": "suijin",
+        "type": "toggle",
+        "img": "images/items/suijin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "suijin"
+    },
+    {
+        "name": "dancingelf",
+        "type": "toggle",
+        "img": "images/items/dancingelf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dancingelf"
+    },
+    {
+        "name": "gluminizer",
+        "type": "toggle",
+        "img": "images/items/gluminizer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gluminizer"
+    },
+    {
+        "name": "diana",
+        "type": "toggle",
+        "img": "images/items/diana.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "diana"
+    },
+    {
+        "name": "harpieladysisters",
+        "type": "toggle",
+        "img": "images/items/harpieladysisters.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "harpieladysisters"
+    },
+    {
+        "name": "kane_minion_a",
+        "type": "toggle",
+        "img": "images/items/kane_minion_a.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kane_minion_a"
+    },
+    {
+        "name": "the13thgrave",
+        "type": "toggle",
+        "img": "images/items/the13thgrave.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "the13thgrave"
+    },
+    {
+        "name": "thousand-eyesrestrict",
+        "type": "toggle",
+        "img": "images/items/thousand-eyesrestrict.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thousand-eyesrestrict"
+    },
+    {
+        "name": "r.eyeb.m.dragon",
+        "type": "toggle",
+        "img": "images/items/r.eyeb.m.dragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "r.eyeb.m.dragon"
+    },
+    {
+        "name": "mysticalelf",
+        "type": "toggle",
+        "img": "images/items/mysticalelf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mysticalelf"
+    },
+    {
+        "name": "mammothgraveyard",
+        "type": "toggle",
+        "img": "images/items/mammothgraveyard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mammothgraveyard"
+    },
+    {
+        "name": "timemachine",
+        "type": "toggle",
+        "img": "images/items/timemachine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "timemachine"
+    },
+    {
+        "name": "rarmofforbidden",
+        "type": "toggle",
+        "img": "images/items/rarmofforbidden.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rarmofforbidden"
+    },
+    {
+        "name": "yamiyugidefeated",
+        "type": "toggle",
+        "img": "images/items/yamiyugidefeated.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yamiyugidefeated"
+    },
+    {
+        "name": "larvaemoth",
+        "type": "toggle",
+        "img": "images/items/larvaemoth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "larvaemoth"
+    },
+    {
+        "name": "kuriboh",
+        "type": "toggle",
+        "img": "images/items/kuriboh.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kuriboh"
+    },
+    {
+        "name": "serenity_wheeler",
+        "type": "toggle",
+        "img": "images/items/serenity_wheeler.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "serenity_wheeler"
+    },
+    {
+        "name": "kane_minion_c",
+        "type": "toggle",
+        "img": "images/items/kane_minion_c.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kane_minion_c"
+    },
+    {
+        "name": "wingeddragon#1",
+        "type": "toggle",
+        "img": "images/items/wingeddragon#1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wingeddragon#1"
+    },
+    {
+        "name": "odion",
+        "type": "toggle",
+        "img": "images/items/odion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "odion"
+    },
+    {
+        "name": "miss_madusa",
+        "type": "toggle",
+        "img": "images/items/miss_madusa.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "miss_madusa"
+    },
+    {
+        "name": "seeker",
+        "type": "toggle",
+        "img": "images/items/seeker.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seeker"
+    },
+    {
+        "name": "flyingpenguin",
+        "type": "toggle",
+        "img": "images/items/flyingpenguin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flyingpenguin"
+    },
+    {
+        "name": "explodingdisc",
+        "type": "toggle",
+        "img": "images/items/explodingdisc.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "explodingdisc"
+    },
+    {
+        "name": "ryu-kishinpowered",
+        "type": "toggle",
+        "img": "images/items/ryu-kishinpowered.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ryu-kishinpowered"
+    },
+    {
+        "name": "sangaofthethunder",
+        "type": "toggle",
+        "img": "images/items/sangaofthethunder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sangaofthethunder"
+    },
+    {
+        "name": "professor_jeremy_harrison",
+        "type": "toggle",
+        "img": "images/items/professor_jeremy_harrison.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "professor_jeremy_harrison"
+    },
+    {
+        "name": "kaibas_butler",
+        "type": "toggle",
+        "img": "images/items/kaibas_butler.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kaibas_butler"
+    },
+    {
+        "name": "damien_draco",
+        "type": "toggle",
+        "img": "images/items/damien_draco.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "damien_draco"
+    },
+    {
+        "name": "curator_adriel_wainwright",
+        "type": "toggle",
+        "img": "images/items/curator_adriel_wainwright.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "curator_adriel_wainwright"
+    },
+    {
+        "name": "doris",
+        "type": "toggle",
+        "img": "images/items/doris.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "doris"
+    },
+    {
+        "name": "three-leggedzombies",
+        "type": "toggle",
+        "img": "images/items/three-leggedzombies.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "three-leggedzombies"
+    },
+    {
+        "name": "saggithedarkclown",
+        "type": "toggle",
+        "img": "images/items/saggithedarkclown.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "saggithedarkclown"
+    },
+    {
+        "name": "thesnakehair",
+        "type": "toggle",
+        "img": "images/items/thesnakehair.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thesnakehair"
+    },
+    {
+        "name": "babydragon",
+        "type": "toggle",
+        "img": "images/items/babydragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "babydragon"
+    },
+    {
+        "name": "flameswordsman",
+        "type": "toggle",
+        "img": "images/items/flameswordsman.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flameswordsman"
+    },
+    {
+        "name": "rockogregrotto#1",
+        "type": "toggle",
+        "img": "images/items/rockogregrotto#1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rockogregrotto#1"
+    },
+    {
+        "name": "the_puppeteer",
+        "type": "toggle",
+        "img": "images/items/the_puppeteer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "the_puppeteer"
+    },
+    {
+        "name": "b.skulldragon",
+        "type": "toggle",
+        "img": "images/items/b.skulldragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "b.skulldragon"
+    },
+    {
+        "name": "jellyfish",
+        "type": "toggle",
+        "img": "images/items/jellyfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jellyfish"
+    },
+    {
+        "name": "espa_roba",
+        "type": "toggle",
+        "img": "images/items/espa_roba.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "espa_roba"
+    },
+    {
+        "name": "game_show_producer",
+        "type": "toggle",
+        "img": "images/items/game_show_producer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "game_show_producer"
+    },
+    {
+        "name": "rabidhorseman",
+        "type": "toggle",
+        "img": "images/items/rabidhorseman.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rabidhorseman"
+    },
+    {
+        "name": "venom_a",
+        "type": "toggle",
+        "img": "images/items/venom_a.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "venom_a"
+    },
+    {
+        "name": "joey_wheeler",
+        "type": "toggle",
+        "img": "images/items/joey_wheeler.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "joey_wheeler"
+    },
+    {
+        "name": "cocoonofevolution",
+        "type": "toggle",
+        "img": "images/items/cocoonofevolution.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cocoonofevolution"
+    },
+    {
+        "name": "magicianofblackchaos",
+        "type": "toggle",
+        "img": "images/items/magicianofblackchaos.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicianofblackchaos"
+    },
+    {
+        "name": "mako_tsunami",
+        "type": "toggle",
+        "img": "images/items/mako_tsunami.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mako_tsunami"
+    },
+    {
+        "name": "battleox",
+        "type": "toggle",
+        "img": "images/items/battleox.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "battleox"
+    },
+    {
+        "name": "knightoftwinswords",
+        "type": "toggle",
+        "img": "images/items/knightoftwinswords.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "knightoftwinswords"
+    },
+    {
+        "name": "scorpion_shoes_owner",
+        "type": "toggle",
+        "img": "images/items/scorpion_shoes_owner.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scorpion_shoes_owner"
+    },
+    {
+        "name": "millenniumshield",
+        "type": "toggle",
+        "img": "images/items/millenniumshield.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "millenniumshield"
+    },
+    {
+        "name": "zoa",
+        "type": "toggle",
+        "img": "images/items/zoa.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "zoa"
+    },
+    {
+        "name": "ad_archie",
+        "type": "toggle",
+        "img": "images/items/ad_archie.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ad_archie"
+    },
+    {
+        "name": "venom_b",
+        "type": "toggle",
+        "img": "images/items/venom_b.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "venom_b"
+    },
+    {
+        "name": "strings",
+        "type": "toggle",
+        "img": "images/items/strings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "strings"
+    },
+    {
+        "name": "kane_minion_b",
+        "type": "toggle",
+        "img": "images/items/kane_minion_b.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kane_minion_b"
+    },
+    {
+        "name": "hitotsu-megiant",
+        "type": "toggle",
+        "img": "images/items/hitotsu-megiant.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hitotsu-megiant"
+    },
+    {
+        "name": "feralimp",
+        "type": "toggle",
+        "img": "images/items/feralimp.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "feralimp"
+    },
+    {
+        "name": "harpielady",
+        "type": "toggle",
+        "img": "images/items/harpielady.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "harpielady"
+    },
+    {
+        "name": "tick_tock",
+        "type": "toggle",
+        "img": "images/items/tick_tock.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tick_tock"
+    },
+    {
+        "name": "duke_devlin",
+        "type": "toggle",
+        "img": "images/items/duke_devlin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "duke_devlin"
+    },
+    {
+        "name": "petitdragon",
+        "type": "toggle",
+        "img": "images/items/petitdragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "petitdragon"
+    },
+    {
+        "name": "pumpkingthekingofghosts",
+        "type": "toggle",
+        "img": "images/items/pumpkingthekingofghosts.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pumpkingthekingofghosts"
+    },
+    {
+        "name": "killerneedle",
+        "type": "toggle",
+        "img": "images/items/killerneedle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "killerneedle"
+    },
+    {
+        "name": "egger_baldwin",
+        "type": "toggle",
+        "img": "images/items/egger_baldwin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "egger_baldwin"
+    },
+    {
+        "name": "karbonalawarrior",
+        "type": "toggle",
+        "img": "images/items/karbonalawarrior.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "karbonalawarrior"
+    },
+    {
+        "name": "yami_yugi",
+        "type": "toggle",
+        "img": "images/items/yami_yugi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yami_yugi"
+    },
+    {
+        "name": "roguedoll",
+        "type": "toggle",
+        "img": "images/items/roguedoll.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "roguedoll"
+    },
+    {
+        "name": "geminielf",
+        "type": "toggle",
+        "img": "images/items/geminielf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "geminielf"
+    },
+    {
+        "name": "metalzoa",
+        "type": "toggle",
+        "img": "images/items/metalzoa.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "metalzoa"
+    },
+    {
+        "name": "fender_shrill",
+        "type": "toggle",
+        "img": "images/items/fender_shrill.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fender_shrill"
+    },
+    {
+        "name": "kreiger",
+        "type": "toggle",
+        "img": "images/items/kreiger.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kreiger"
+    },
+    {
+        "name": "thelastjudgment",
+        "type": "toggle",
+        "img": "images/items/thelastjudgment.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thelastjudgment"
+    },
+    {
+        "name": "b.eyewhitedragon",
+        "type": "toggle",
+        "img": "images/items/b.eyewhitedragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "b.eyewhitedragon"
+    },
+    {
+        "name": "rlegofforbidden",
+        "type": "toggle",
+        "img": "images/items/rlegofforbidden.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rlegofforbidden"
+    },
+    {
+        "name": "chopman",
+        "type": "toggle",
+        "img": "images/items/chopman.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chopman"
+    },
+    {
+        "name": "mushroomman",
+        "type": "toggle",
+        "img": "images/items/mushroomman.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mushroomman"
+    },
+    {
+        "name": "marik_ishtar",
+        "type": "toggle",
+        "img": "images/items/marik_ishtar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "marik_ishtar"
+    },
+    {
+        "name": "dox",
+        "type": "toggle",
+        "img": "images/items/dox.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dox"
+    },
+    {
+        "name": "penguinsoldier",
+        "type": "toggle",
+        "img": "images/items/penguinsoldier.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "penguinsoldier"
+    },
+    {
+        "name": "aquamadoor",
+        "type": "toggle",
+        "img": "images/items/aquamadoor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aquamadoor"
+    },
+    {
+        "name": "venom_c",
+        "type": "toggle",
+        "img": "images/items/venom_c.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "venom_c"
+    },
+    {
+        "name": "grandpa",
+        "type": "toggle",
+        "img": "images/items/grandpa.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grandpa"
+    },
+    {
+        "name": "summonedskull",
+        "type": "toggle",
+        "img": "images/items/summonedskull.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "summonedskull"
+    },
+    {
+        "name": "gatordragon",
+        "type": "toggle",
+        "img": "images/items/gatordragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gatordragon"
+    },
+    {
+        "name": "timewizard",
+        "type": "toggle",
+        "img": "images/items/timewizard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "timewizard"
+    },
+    {
+        "name": "maximillion_pegasus",
+        "type": "toggle",
+        "img": "images/items/maximillion_pegasus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "maximillion_pegasus"
+    },
+    {
+        "name": "kane_minion_f",
+        "type": "toggle",
+        "img": "images/items/kane_minion_f.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kane_minion_f"
+    },
+    {
+        "name": "mr_titus",
+        "type": "toggle",
+        "img": "images/items/mr_titus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mr_titus"
+    },
+    {
+        "name": "bandit_keith",
+        "type": "toggle",
+        "img": "images/items/bandit_keith.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bandit_keith"
+    },
+    {
+        "name": "zombiewarrior",
+        "type": "toggle",
+        "img": "images/items/zombiewarrior.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "zombiewarrior"
+    },
+    {
+        "name": "thousanddragon",
+        "type": "toggle",
+        "img": "images/items/thousanddragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thousanddragon"
+    },
+    {
+        "name": "cedric",
+        "type": "toggle",
+        "img": "images/items/cedric.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cedric"
+    },
+    {
+        "name": "ryu-kishin",
+        "type": "toggle",
+        "img": "images/items/ryu-kishin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ryu-kishin"
+    },
+    {
+        "name": "yugis_mother",
+        "type": "toggle",
+        "img": "images/items/yugis_mother.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yugis_mother"
+    },
+    {
+        "name": "lordofd.",
+        "type": "toggle",
+        "img": "images/items/lordofd..png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lordofd."
+    },
+    {
+        "name": "darkmagician",
+        "type": "toggle",
+        "img": "images/items/darkmagician.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "darkmagician"
+    },
+    {
+        "name": "red-eyesb.dragon",
+        "type": "toggle",
+        "img": "images/items/red-eyesb.dragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "red-eyesb.dragon"
+    },
+    {
+        "name": "dokurorider",
+        "type": "toggle",
+        "img": "images/items/dokurorider.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dokurorider"
+    },
+    {
+        "name": "norman",
+        "type": "toggle",
+        "img": "images/items/norman.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "norman"
+    },
+    {
+        "name": "curseofdragon",
+        "type": "toggle",
+        "img": "images/items/curseofdragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "curseofdragon"
+    },
+    {
+        "name": "trapbandit",
+        "type": "toggle",
+        "img": "images/items/trapbandit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trapbandit"
+    },
+    {
+        "name": "giantflea",
+        "type": "toggle",
+        "img": "images/items/giantflea.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "giantflea"
+    },
+    {
+        "name": "thug_a",
+        "type": "toggle",
+        "img": "images/items/thug_a.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thug_a"
+    },
+    {
+        "name": "exod.offorbidden",
+        "type": "toggle",
+        "img": "images/items/exod.offorbidden.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "exod.offorbidden"
+    },
+    {
+        "name": "the_greendale_zompire",
+        "type": "toggle",
+        "img": "images/items/the_greendale_zompire.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "the_greendale_zompire"
+    },
+    {
+        "name": "stuffedanimal",
+        "type": "toggle",
+        "img": "images/items/stuffedanimal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stuffedanimal"
+    },
+    {
+        "name": "umbra",
+        "type": "toggle",
+        "img": "images/items/umbra.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "umbra"
+    },
+    {
+        "name": "meteorb.dragon",
+        "type": "toggle",
+        "img": "images/items/meteorb.dragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "meteorb.dragon"
+    },
+    {
+        "name": "beluga",
+        "type": "toggle",
+        "img": "images/items/beluga.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beluga"
+    },
+    {
+        "name": "pendulummachine",
+        "type": "toggle",
+        "img": "images/items/pendulummachine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pendulummachine"
+    },
+    {
+        "name": "hane-hane",
+        "type": "toggle",
+        "img": "images/items/hane-hane.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hane-hane"
+    },
+    {
+        "name": "medicalaidkit",
+        "type": "toggle",
+        "img": "images/items/medicalaidkit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "medicalaidkit"
+    },
+    {
+        "name": "bakura",
+        "type": "toggle",
+        "img": "images/items/bakura.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bakura"
+    },
+    {
+        "name": "lumis",
+        "type": "toggle",
+        "img": "images/items/lumis.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lumis"
+    },
+    {
+        "name": "blacklustersoldier",
+        "type": "toggle",
+        "img": "images/items/blacklustersoldier.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blacklustersoldier"
+    },
+    {
+        "name": "witchsapprentice",
+        "type": "toggle",
+        "img": "images/items/witchsapprentice.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "witchsapprentice"
+    },
+    {
+        "name": "shadi",
+        "type": "toggle",
+        "img": "images/items/shadi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shadi"
+    },
+    {
+        "name": "lloyd",
+        "type": "toggle",
+        "img": "images/items/lloyd.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lloyd"
+    },
+    {
+        "name": "gateguardian",
+        "type": "toggle",
+        "img": "images/items/gateguardian.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gateguardian"
+    },
+    {
+        "name": "mightymage",
+        "type": "toggle",
+        "img": "images/items/mightymage.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mightymage"
+    },
+    {
+        "name": "d.magiciangirl",
+        "type": "toggle",
+        "img": "images/items/d.magiciangirl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "d.magiciangirl"
+    },
+    {
+        "name": "redarcherygirl",
+        "type": "toggle",
+        "img": "images/items/redarcherygirl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "redarcherygirl"
+    },
+    {
+        "name": "yugi_moto",
+        "type": "toggle",
+        "img": "images/items/yugi_moto.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yugi_moto"
+    },
+    {
+        "name": "rex_raptor",
+        "type": "toggle",
+        "img": "images/items/rex_raptor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rex_raptor"
+    },
+    {
+        "name": "facelessmage",
+        "type": "toggle",
+        "img": "images/items/facelessmage.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "facelessmage"
+    },
+    {
+        "name": "thunderball",
+        "type": "toggle",
+        "img": "images/items/thunderball.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thunderball"
+    },
+    {
+        "name": "kane_minion_e",
+        "type": "toggle",
+        "img": "images/items/kane_minion_e.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kane_minion_e"
+    },
+    {
+        "name": "warpvortex",
+        "type": "toggle",
+        "img": "images/items/warpvortex.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "warpvortex"
+    },
+    {
+        "name": "para",
+        "type": "toggle",
+        "img": "images/items/para.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "para"
+    },
+    {
+        "name": "weevil_underwood",
+        "type": "toggle",
+        "img": "images/items/weevil_underwood.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weevil_underwood"
+    },
+    {
+        "name": "arkana",
+        "type": "toggle",
+        "img": "images/items/arkana.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "arkana"
+    },
+    {
+        "name": "crocozaurus",
+        "type": "toggle",
+        "img": "images/items/crocozaurus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crocozaurus"
+    },
+    {
+        "name": "magiciandragon",
+        "type": "toggle",
+        "img": "images/items/magiciandragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magiciandragon"
+    },
+    {
+        "name": "tea_gardner",
+        "type": "toggle",
+        "img": "images/items/tea_gardner.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tea_gardner"
+    },
+    {
+        "name": "shadowspecter",
+        "type": "toggle",
+        "img": "images/items/shadowspecter.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shadowspecter"
+    },
+    {
+        "name": "dragonpiper",
+        "type": "toggle",
+        "img": "images/items/dragonpiper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dragonpiper"
+    },
+    {
+        "name": "blastlizard",
+        "type": "toggle",
+        "img": "images/items/blastlizard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blastlizard"
+    },
+    {
+        "name": "feng_long",
+        "type": "toggle",
+        "img": "images/items/feng_long.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "feng_long"
+    },
+    {
+        "name": "battlesteer",
+        "type": "toggle",
+        "img": "images/items/battlesteer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "battlesteer"
+    },
+    {
+        "name": "energydisc",
+        "type": "toggle",
+        "img": "images/items/energydisc.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "energydisc"
+    },
+    {
+        "name": "anton_periwig",
+        "type": "toggle",
+        "img": "images/items/anton_periwig.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anton_periwig"
+    },
+    {
+        "name": "paul",
+        "type": "toggle",
+        "img": "images/items/paul.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "paul"
+    },
+    {
+        "name": "llegofforbidden",
+        "type": "toggle",
+        "img": "images/items/llegofforbidden.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "llegofforbidden"
+    },
+    {
+        "name": "twin-headedthunderdragon",
+        "type": "toggle",
+        "img": "images/items/twin-headedthunderdragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "twin-headedthunderdragon"
+    },
+    {
+        "name": "roger",
+        "type": "toggle",
+        "img": "images/items/roger.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "roger"
+    },
+    {
+        "name": "orgoththerelentless",
+        "type": "toggle",
+        "img": "images/items/orgoththerelentless.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "orgoththerelentless"
+    },
+    {
+        "name": "Reverse Division",
+        "type": "toggle",
+        "img": "images/items/tournaments/reverse_division.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "reversedivision"
+    },
+    {
+        "name": "celticguardian",
+        "type": "toggle",
+        "img": "images/items/celticguardian.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "celticguardian"
+    },
+    {
+        "name": "melody",
+        "type": "toggle",
+        "img": "images/items/melody.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "melody"
+    },
+    {
+        "name": "cratercreator",
+        "type": "toggle",
+        "img": "images/items/cratercreator.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cratercreator"
+    },
+    {
+        "name": "director_lucius",
+        "type": "toggle",
+        "img": "images/items/director_lucius.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "director_lucius"
+    },
+    {
+        "name": "declerationofdespair",
+        "type": "toggle",
+        "img": "images/items/declerationofdespair.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "declerationofdespair"
+    },
+    {
+        "name": "yaranzo",
+        "type": "toggle",
+        "img": "images/items/yaranzo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yaranzo"
+    },
+    {
+        "name": "mystichorseman",
+        "type": "toggle",
+        "img": "images/items/mystichorseman.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mystichorseman"
+    },
+    {
+        "name": "mysticlamp",
+        "type": "toggle",
+        "img": "images/items/mysticlamp.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mysticlamp"
+    },
+    {
+        "name": "mai_valentine",
+        "type": "toggle",
+        "img": "images/items/mai_valentine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mai_valentine"
+    },
+    {
+        "name": "koumoridragon",
+        "type": "toggle",
+        "img": "images/items/koumoridragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "koumoridragon"
+    },
+    {
+        "name": "ishizu_ishtar",
+        "type": "toggle",
+        "img": "images/items/ishizu_ishtar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ishizu_ishtar"
+    },
+    {
+        "name": "thug_c",
+        "type": "toggle",
+        "img": "images/items/thug_c.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thug_c"
+    },
+    {
+        "name": "kane_minion_d",
+        "type": "toggle",
+        "img": "images/items/kane_minion_d.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kane_minion_d"
+    },
+    {
+        "name": "snipes_crosshair",
+        "type": "toggle",
+        "img": "images/items/snipes_crosshair.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "snipes_crosshair"
+    },
+    {
+        "name": "nibbles",
+        "type": "toggle",
+        "img": "images/items/nibbles.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nibbles"
+    },
+    {
+        "name": "skelengel",
+        "type": "toggle",
+        "img": "images/items/skelengel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skelengel"
+    },
+    {
+        "name": "kemo",
+        "type": "toggle",
+        "img": "images/items/kemo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kemo"
+    },
+    {
+        "name": "giantrocksoldier",
+        "type": "toggle",
+        "img": "images/items/giantrocksoldier.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "giantrocksoldier"
+    },
+    {
+        "name": "clownzombie",
+        "type": "toggle",
+        "img": "images/items/clownzombie.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "clownzombie"
+    },
+    {
+        "name": "castleofd.magic",
+        "type": "toggle",
+        "img": "images/items/castleofd.magic.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "castleofd.magic"
+    },
+    {
+        "name": "sindin_the_clown",
+        "type": "toggle",
+        "img": "images/items/sindin_the_clown.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sindin_the_clown"
+    },
+    {
+        "name": "greatmoth",
+        "type": "toggle",
+        "img": "images/items/greatmoth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "greatmoth"
+    },
+    {
+        "name": "panik",
+        "type": "toggle",
+        "img": "images/items/panik.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "panik"
+    },
+    {
+        "name": "kanantheswordmistress",
+        "type": "toggle",
+        "img": "images/items/kanantheswordmistress.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kanantheswordmistress"
+    },
+    {
+        "name": "thug_b",
+        "type": "toggle",
+        "img": "images/items/thug_b.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thug_b"
+    },
+    {
+        "name": "bonz",
+        "type": "toggle",
+        "img": "images/items/bonz.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bonz"
+    },
+    {
+        "name": "strikeninja",
+        "type": "toggle",
+        "img": "images/items/strikeninja.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "strikeninja"
+    },
+    {
+        "name": "sangan",
+        "type": "toggle",
+        "img": "images/items/sangan.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sangan"
+    },
+    {
+        "name": "the_merchant",
+        "type": "toggle",
+        "img": "images/items/the_merchant.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "the_merchant"
+    },
+    {
+        "name": "diesel_kane",
+        "type": "toggle",
+        "img": "images/items/diesel_kane.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "diesel_kane"
+    },
+    {
+        "name": "bonusgold",
+        "type": "consumable",
+        "img": "images/items/bonusgold.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "bonusgold"
+    },
+    {
+        "name": "fortuno",
+        "type": "toggle",
+        "img": "images/items/fortuno.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fortuno"
+    },
+    {
+        "name": "yami_bakura",
+        "type": "toggle",
+        "img": "images/items/yami_bakura.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yami_bakura"
+    },
+    {
+        "name": "parrotdragon",
+        "type": "toggle",
+        "img": "images/items/parrotdragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "parrotdragon"
+    },
+    {
+        "name": "resurrectionscroll",
+        "type": "toggle",
+        "img": "images/items/resurrectionscroll.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "resurrectionscroll"
+    },
+    {
+        "name": "paradox",
+        "type": "toggle",
+        "img": "images/items/paradox.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "paradox"
+    },
+    {
+        "name": "twin-headeddragon",
+        "type": "toggle",
+        "img": "images/items/twin-headeddragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "twin-headeddragon"
+    },
+    {
+        "name": "meteordragon",
+        "type": "toggle",
+        "img": "images/items/meteordragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "meteordragon"
+    },
+    {
+        "name": "mokuba_kaiba",
+        "type": "toggle",
+        "img": "images/items/mokuba_kaiba.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mokuba_kaiba"
+    },
+    {
+        "name": "johnny_steps",
+        "type": "toggle",
+        "img": "images/items/johnny_steps.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "johnny_steps"
+    },
+    {
+        "name": "jackpot",
+        "type": "toggle",
+        "img": "images/items/jackpot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jackpot"
+    },
+    {
+        "name": "demitrius_the_bully",
+        "type": "toggle",
+        "img": "images/items/demitrius_the_bully.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "demitrius_the_bully"
+    },
+    {
+        "name": "barreldragon",
+        "type": "toggle",
+        "img": "images/items/barreldragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "barreldragon"
+    },
+    {
+        "name": "jinzo",
+        "type": "toggle",
+        "img": "images/items/jinzo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jinzo"
+    },
+    {
+        "name": "charlie_gale",
+        "type": "toggle",
+        "img": "images/items/charlie_gale.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "charlie_gale"
+    },
+    {
+        "name": "ryan",
+        "type": "toggle",
+        "img": "images/items/ryan.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ryan"
+    },
+    {
+        "name": "swampbattleguard",
+        "type": "toggle",
+        "img": "images/items/swampbattleguard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "swampbattleguard"
+    },
+    {
+        "name": "b.eyeultimatedragon",
+        "type": "toggle",
+        "img": "images/items/b.eyeultimatedragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "b.eyeultimatedragon"
+    },
+    {
+        "name": "beautifulheadhuntress",
+        "type": "toggle",
+        "img": "images/items/beautifulheadhuntress.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beautifulheadhuntress"
+    },
+    {
+        "name": "Shop Progression",
+        "type": "consumable",
+        "img": "images/items/duelists/grandpa.png",
+        "min_quantity": 0,
+        "max_quantity": 6,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "shopprogression"
+    },
+    {
+        "name": "perfectlyultimate",
+        "type": "toggle",
+        "img": "images/items/perfectlyultimate.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "perfectlyultimate"
+    },
+    {
+        "name": "jill",
+        "type": "toggle",
+        "img": "images/items/jill.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jill"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    },
+    {
+        "name": "Free Duelists Available",
+        "type": "consumable",
+        "img": "images/items/duelists/yugi_moto.png",
+        "min_quantity": 0,
+        "max_quantity": 92,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "free_duelists_available"
+    },
+    {
+        "name": "Free Duelists Defeated",
+        "type": "consumable",
+        "img": "images/items/duelists/yugi_moto_defeated.png",
+        "min_quantity": 0,
+        "max_quantity": 92,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "free_duelists_defeated"
+    }
+]

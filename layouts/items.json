@@ -1,0 +1,62 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "5,5",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "4,4",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                    [
+                        "shopprogression",
+                        "free_duelists_available",
+                        "free_duelists_defeated"
+                    ]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "4,4",
+                "item_height": 24,
+                "item_width": 48,
+                "rows": [
+                    ["reversedivision"],
+                    ["darkdivision"]
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "5,5",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "4,4",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                    [
+                        "shopprogression",
+                        "free_duelists_available",
+                        "free_duelists_defeated"
+                    ]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "item_margin": "4,4",
+                "item_height": 24,
+                "item_width": 48,
+                "rows": [
+                    ["reversedivision"],
+                    ["darkdivision"]
+                ]
+            }
+        ]
+    }
+}

@@ -1,3 +1,10 @@
 {
-    "versions": []
+    "versions": [
+        {
+            "package_version": "0.0.1",
+            "url": "https://github.com/Aureooo-0/yugioh_ddm_poptracker/releases/download/v0.0.1/yugioh_ddm_ap.zip",
+            "sha256": "86dd05030efcbc7c2b9bd6124c2a743a1322bc0a20f8deee96125c0e008e3946",
+            "changelog": ["Initial release, free duelists only."]
+        }
+    ]
 }
